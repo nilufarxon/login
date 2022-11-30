@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   height: 100vh;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .card_center {
   width: 430px;
